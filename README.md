@@ -2,12 +2,12 @@
 
 Email Me 👉 ✉️ **yshreekant01.tech** For Collaboration/Project or Anything Else. 😊😊
 
-- 🔭 **I’m currently working on:** Enter your project info here
-- 🌱 **I’m currently learning:** Enter your tech here
-- 👯 **I’m looking to collaborate on:** Enter your project name and info
-- 🤔 **I’m looking for help with:** Your project here
-- 💬 **Ask me about:** Collaboration, Tech Support
-- 📫 **How to reach me:** Enter your email here
+- 🔭 **I’m currently working on:** 
+- 🌱 **I’m currently learning:** 
+- 👯 **I’m looking to collaborate on:** 
+- 🤔 **I’m looking for help with:**
+- 💬 **Ask me about:** 
+- 📫 **How to reach me:** 
 - 😄 **Pronouns:** Shreekant
 - ⚡ **Fun fact:** I Love Tech and Tech Love Me
 
@@ -29,8 +29,6 @@ Email Me 👉 ✉️ **yshreekant01.tech** For Collaboration/Project or Anything
 ![](https://streak-stats.demolab.com/?user=srikantgit132&theme=shadow_green&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=srikantgit132&theme=shadow_green&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=srikantgit132&limit=5&theme=default&combine_all_yearly_contributions=true)
